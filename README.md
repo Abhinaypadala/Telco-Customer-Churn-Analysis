@@ -42,6 +42,9 @@ The telecom company is experiencing customer churn and wants to understand which
 4. KPI calculations.
 5. Power BI dashboard development.
 6. Business insights and recommendations.
+## Power BI Dashboard Preview
+
+![Telco Churn Dashboard](Telco_Churn_Dashboard.png)
 
 ## Author
 Abhinay Padala
